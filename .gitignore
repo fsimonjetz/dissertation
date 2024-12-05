@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 notes.md
+.DS_Store
+qa_shellnouns_main/data/gold_data_mapped.csv
