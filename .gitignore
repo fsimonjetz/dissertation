@@ -166,3 +166,5 @@ notes.md
 qa_shellnouns_main/data/gold_data_mapped.csv
 topic_reference_detection/data/zeit_articles
 qa_shellnouns_main/data/raw_prolific_stats
+src/global-local.ipynb
+qa_shellnouns_main/data/gold_data_mapped.csv
