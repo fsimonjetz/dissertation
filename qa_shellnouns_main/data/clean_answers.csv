@@ -1,0 +1,529 @@
+batch,file,shellnoun,annotator,answer,difficulty,comment
+1,1,issue,1,The changing of the United States Constitution to give counties the ability to create permanent housing.,2,
+1,1,issue,2,Mr Brodsky is criticizing Mr O'Rourke for not dealing with the homeless correctly. He says that Mr O'Rourke basically just wants to build extra houses rather than amend the existing ones.,5,"I found that article very challenging to get my head around, especially as politics is not a subject of great interest to me. "
+1,1,issue,3,"Aside from New York city, Westchester has the largest population of homeless people in the state.",5,"They mentioned a lot of issues, which makes it hard to pinpoint the main issue. But the fact that they refer a lot to how people are homeless, gives a sense that that's the main issue."
+1,1,issue,4,about abortion,5,too many details in short paragraph.for an example lot of date of years and numbers.
+1,1,issue,5,Abortion rights,2,
+1,2,issue,1,The discussion between the Soviet Union and the United Kingdom of disarmament of conventional weapons,4,
+1,2,issue,2,the destruction of conventional military equipment,3,I found this article easier to get my head around than the last one for sure 
+1,2,issue,3,The issue regarding President Mikail S. Gorbachev and Prime Minister John Major on their countries differences over the proposed treaty for the reduction of conventional arms,5,
+1,2,issue,4,the reduction of conventional arms,4,this can understand than first page.already reduced the lot of details.
+1,2,issue,5,A treaty between the UK and the USSR regarding the reduction of conventional arms,1,
+1,3,fact,1,"It refers to the agreement that English is the most used language when it comes to commerce, government and everyday life.",1,
+1,3,fact,2,the fact is referring to making English the official language of America.,2,A lot easier to read and understand. It made a lot more sense and was simpler to read.
+1,3,fact,3,"English is the main language of commerce, government and everyday life in the United states.",1,
+1,3,fact,4,make English the official language of the United States.,3,there is no hard vocabulary.anybody who has normal knowledge of English can understand this one.
+1,3,fact,5,That English is the most spoken language in the USA,1,
+1,4,issue,1,The issue of whether the Federal government should take over control of the state welfare systems in place currently,4,
+1,4,issue,2,it refers to welfare benefits/programs of mothers,2,The title of the article made this one easier to understand 
+1,4,issue,3,But he said he saw no basis for Mr. Moynihan's faith that Federal welfare programs would work if they were simply revised around the edges.,2,
+1,4,issue,4,that Federal welfare programs would work if they were simply revised around the edges.,4,too many names.its hard to concentrate about one person
+1,4,issue,5,"State controls over welfare programs - if passed, states could essentially distribute welfare as they saw fit",2,
+1,5,fact,1,The fact that men are moving away from typical formal wear like tuxedos and opting for a wider range of formal fashion is creating a lot of fashion mistakes,3,
+1,5,fact,2,It refers to the way people are dressing now - people are now more likely to buy a blazer to pair with jeans rather than a full suit.,2,"the title was a little confusing, which makes you want to read the article to see what it is about"
+1,5,fact,3,"With a wider range of options, the margin for error 8increases exponentially",1,
+1,5,fact,4,"mixing a formal shirt with a leather jacket, or a velvet Chesterfield with jeans
+kind of men#s fashion",4,lot of sayings are here.and we have to read again who said what and what.had to read 10 times.
+1,5,fact,5,The fact refers to the increased margin of error because of the wider range of options for mens fashion,3,
+1,6,issue,1,That the American officials mistook a Bosnian held corridor for a Serbian one,2,
+1,6,issue,2,the Bosnian government who are Muslim lead starting a war,2,i had to read most of the article to pick out the issue
+1,6,issue,3,The issue of an objection from a Muslim-led Bosnian Government to the accord that the American officials believed they had just reached on the width of strategic Serbian-held corridor in northern Bosnia.,2,
+1,6,issue,4,"in the words of one person who was present, ""there was an eruption and peace went out the window.",2,"no hard vocabulary and easy to understand 
+highlight part was also in second paragraph"
+1,6,issue,5,The issue refer to the ownership of a corridor in northern Bosnia that is occupied by Serbia,1,
+1,7,issue,1,It refers to the accounts receivables that Sears entrusted for certificates,5,
+1,7,issue,2,a huge retailer passed certificates aimed at investors,5,I didnt really understand what the article was trying to put across and i didnt understand the issue
+1,7,issue,3,The pricing of a $250 million issue of pass-through certificates that are being aimed at retail investors rather than the institutional buyers who normally dominate the asset-backed market.,3,
+1,7,issue,4,"he nation's largest retailer, yesterday priced a $250 million issue of pass-through certificates that are being aimed at retail investors rather than the institutional buyers who normally dominate the asset-backed market.
+
+The offering is being done through an underwriting group led by Dean Witter Reynolds Inc., a Sears unit.",3,not clear details.
+1,7,issue,5,The issue of the current certificate,4,
+1,8,fact,1,The fact that Andre Malraux was best known for having a cigarette in his mouth.,1,
+1,8,fact,2,war breaking out in france,2,a little easier to establish 
+1,8,fact,3,"He had a gift for such epigrams, and for much else, but he seldom uttered them without a cigarette in his mouth",3,
+1,8,fact,4,French law forbids smoking ''in places destined for collective use.,1,very simple all the details were can easily understand.
+1,8,fact,5,"The fact refers to the quote by Andre Malraux about, who usually uttered quotes whilst smoking",1,
+1,9,fact,1,That fact that a piece of classical music is slower than another.,4,
+1,9,fact,2,the fact is that music makes collecting difficult,5,I think the title is a little misleading. I found it hard to make out what the article was about from reading the title.
+1,9,fact,3,"If you own eight recordings of the Bartok Fourth Quartet and a watch, you will soon find out that the third movement of Recording No. 4 is 35 seconds slower than that of Recording No. 7.",3,
+1,9,fact,4,"collectors, something its author is not.",4,can understand every details.but too long.and fact was in down.had to read carefully
+1,9,fact,5,That the third movement of Recording No. 4 of the Bartok Fourth Quartet is 35 seconds slower than the third movement of Recording No. 7,1,
+1,10,issue,1,That Baseball is confronting with a large number of doping players in its history.,2,
+1,10,issue,2,i think its about congratulating bonds - the relationship between the two people,5,
+1,10,issue,3,Baseball's greatest problem is its hypocrisy -- its failure to face up to its complicity in creating a rampant drug culture and its attempt now to sweep that era under the rug.,3,
+1,10,issue,4,"Baseball caused its drug problems, is dealing with this issue and has moved on.",3,this is also too long but intressting
+1,10,issue,5,The drug issue in baseball,1,
+2,1,fact,6,A signature issued by an auto pen is devoid from the occasion and the emotions that lay behind the creation of that individual signature.,3,
+2,1,fact,7,"Using an auto pen to recreate someone's signature. Many political figures used an auto pen to make writing their signature quicker, but many people do not like that believing that the auto pen isn't genuine enough to the real person's signature.",3,
+2,1,fact,8,that an auto pen does not distinguish between individual signatures.,2,
+2,1,fact,9,This fact refers to the use of 'auto pens' to write signatures automatically without the person who's signature it is to physically sign the letter.,2,
+2,1,fact,10,"It referers to how the value of signatures weigh. From Peter j Segal stances he shows that a hand signature is worth more than an auto or robot signature from the president John f Kenedy himself. As the other is valued at 40,000 dollars and the other a mere 35 dollars. Its also highlight how we need to be with signature for they have the power and we will be held accountable for it. Whether we signed knowingly and anknowingly. Its our name on that piece of paper.",4,Its interesting how all politicians seem to have no clue how the signatures got on the papers . like how can one be so careless with ones signatory.
+2,2,fact,6,Karl Lagerfeld was the first to bring irreverence to contemporary couture fashion by finding inspiration in the military and in 17th and 18th century history for Chanel pieces.,2,
+2,2,fact,7,"Taken together, these designs remind us that Lagerfeld was the first to bring irreverence to contemporary couture fashion.",2,
+2,2,fact,8,that Karl Lagerfeld was the first person to bring irreverence into the fashion industry.,4,
+2,2,fact,9,This fact refers to Karl Lagerfeld being a pioneer in bringing inspiration from 17th century dresses to modern day fashion of Chanel suits.,2,
+2,2,fact,10,"This fact is showing how the fashion industry has evolved. From ruffles and LA curious fabrics to presenting Black on the run way. After 5 Years or orange around the shoulders, hips and the hemline to round capes. Showing soft coats into arched yokes. Having cashmere in colors like yellow it just show progress in the fashion industry.",5,Its interesting to watch the change in fashion.
+2,3,issue,6,Limiting the deductibility of various innovative financial practices.,5,
+2,3,issue,7,"In corporate reorganizations, the Administration proposes several rules intended to prevent shareholders of target companies from deferring gains for tax purposes if they no longer maintain a continuing interest in the surviving company.",2,
+2,3,issue,8,the issue of the deductibility of various innovative financial practices.,3,
+2,3,issue,9,"Proposed financial amendments for big business in terms of tax deductions and debt write offs, but some harsh proposals could mean danger for some companies.",5,Didnt really understand this one :(
+2,3,issue,10,"This is an issues of taxes,equity ,bonds and loans between companies and the United states government. From my understanding, Madam Hilary Bill Clinton proposed a deduction of various financial practices.They are intended to curb corporate subsidies and to close loopholes involving activities ranging from the issuance of 100-year bonds, to farming, to manufacturing pharmaceuticals in Puerto Rico. 
+Some are in agreement with the proposal but others are not in agreement for other loans don't get paid anyway In the duration of 40 years. So they would rather pay back anyways whether its in stock because at the end of the day the agreement was that they payback whether there company works on or not.",5,Both parties do make sense.
+2,4,fact,6,"The withdrawal of the 115,000 soviet troops in Afghanistan.",4,
+2,4,fact,7,"The agreements provide that once the terms of a Soviet withdrawal are accepted by the United States, two things happen simultaneously 60 days after the agreements are signed: The Soviet withdrawal begins, and American aid to the rebels ends.",2,
+2,4,fact,8,"that once the terms of a Soviet withdrawal are accepted by the United State two things will happen-withdrawal from Afghanistan beginning, and American aid to the rebels ending.",2,
+2,4,fact,9,That American aid to rebels will end once Soviet soliders withdraw from Afghanistan,3,
+2,4,fact,10,"reluctant to state this fact publicly. Mr. Shultz introduced some ambiguity last week into the timing of the cutoff by saying, ''As withdrawal proceeds and as it takes place - we hope in a peaceful atmosphere - then you don't have the need for that continued support, and it would cease.''  This means the united states will have to wait and see,whether the withdraw is real before they can think of cutting off military aid to the rebels. 
+But from the looks of it the Russian wouldn't agree to such arrangement. Therefore Armed resistance continues throughout the country. January 1980 - President Carter announces sanctions including an embargo on grain sales to the Soviet Union. In July, the United States and almost 60 other nations boycott the Olympics in Moscow. April 1981 - President Reagan lifts the grain embargo.",5,
+2,5,fact,6,The experiences of people related to their belief of life after death.,1,
+2,5,fact,7,"Toward the end of his life, William James said he had come to believe in life after death because it was intolerable that he should never see his family and friends again. Wish fulfillment? Because we wish something to be true, it does not follow that it is not true.",4,
+2,5,fact,8,the fact that educated and emotionally mature people have also had these experiences does not automatically confirm it.,4,
+2,5,fact,9,Experiences of death and the belief about what happens after we die,2,
+2,5,fact,10,"This fact means its true that Rosen readily dismisses the death-related research that has been done in the last 10 years. Certainly, these experiences are widespread in our society, even among the educated and the emotionally mature.  But it does not dimiss the fact the study is worth the attention.
+; Elisabeth Kubler-Ross does make death too easy for us. The evidence is inconclusive that there is enough goodness and love in the cosmos to spare reflective creatures like ourselves from permanent annihilation.  But even though we must still have a leap of faith and it doesn't have to be religious. We can Only hope that what we wish for will come true",2,have a leap of faith.
+2,6,issue,6,"The Holocaust, the murder of over six million Jews during World War II.",2,
+2,6,issue,7,"In the theater, an attempt to understand an event as enormous as the murder of more than six million people can best be made through the experience of one character.",3,
+2,6,issue,8,The Holocaust.,2,
+2,6,issue,9,"The holocaust, and the issue of how important it is to talk about Jewish people and their experiences of this time in the most respectful way",2,
+2,6,issue,10,"This issue is telling a story of a man who is trapped in his own mind. He believes that there is still war out there. He is afraid that he will be taken and be killed.
+Mr. Sanzel seems like a mouse living in the wall of a big frightening house.
+
+He putters around the room, adjusting his puppets, talking to them, eating his bread and jam and generally being sweet and inoffensive, if perhaps a trifle odd. It is when his German landlady knocks on his door that terror crosses his face for a split second, and one begins to see the depth of this character's fear.  He is at peace as long as no one comes knocking at the door.
+
+He is haunted my nightmares destruction and death. But he is also kind and gentle and loves to live in the world he creates with his puppets. 
+I do applaued the Landlady for trying to get him out to the real world and going the extra mile to getting people to convince him that the war is over.",3,We all create a world  where we are actually just happy in as long as no one comes knocking on the. Its called our comfort zone.
+2,7,fact,6,"Because of generations of laboratory breeding, mice are starting to be born with a defect : blindness.",3,
+2,7,fact,7,"Even ordinary strains of laboratory mice have a curious and little known defect, arising from generations of laboratory breeding. Imagine the breeder reaching into the cage to grab a few prospective parents. The tails he catches will of course belong to the least visually acute members of the population. Cycle after cycle, this unconscious selection has had an inevitable effect: many strains of laboratory mouse are blind.",2,
+2,7,fact,8,that many strains of laboratory mouse are blind.,2,
+2,7,fact,9,"That the constant breeding of lab mice is leading to all sorts of defects within genes and can lead to weight gain and blindness, and researchers won't realise that the mice are blind and recieve results that are incorrect.",1,"I've learned about this before, so its quite easy for me to understand! :)"
+2,7,fact,10,"Its a fact that Even ordinary strains of laboratory mice have a curious and little known defect, arising from generations of laboratory breeding. Imagine the breeder reaching into the cage to grab a few prospective parents. The tails he catches will of course belong to the least visually acute members of the population. Cycle after cycle, this unconscious selection has had an inevitable effect: many strains of laboratory mouse are blind. 
+. The instructions to develop and operate a human require three billion chemical letters of DNA, the genetic material. But mice, too, have three billion letters of DNA in each of their cells, as if their design plan were every bit as sophisticated. For every 100 human genes, 97 or more have counterparts in the mouse, and these mouse genes, in the language of DNA, are spelled very similarly to the human genes. Indeed, the common ancestor of mice and humans lived only 75 million years ago.
+Its also a fact that",4,
+2,8,fact,6,"During last year's playoff series, the Knicks won five out of six times, each time when Patrick Ewing couldn't play.",2,
+2,8,fact,7,The franchise that had self-destructed in fights and suspensions in the past is now showing the resourcefulness that New York fans used to expect. One glaring statistic from the Indiana playoff series of last year and this is that the Knicks have now won five and lost one when Ewing could not play at all.,2,
+2,8,fact,8,That the Knicks won five and lost one when Patrick Ewing could not play.,4,
+2,8,fact,9,That the Knicks have won five games when a certain player couldnt play.,2,"I'm not really into sports, but this was pretty easy to get even for me! :)"
+2,8,fact,10,"The fact was The franchise that had self-destructed in fights and suspensions in the past is now showing the resourcefulness that New York fans used to expect. One glaring statistic from the Indiana playoff series of last year and this is that the Knicks have now won five and lost one when Ewing could not play at all.  
+And from the looks of it Late in the game, the fans applauded the Knicks. These were not the artificial cheers spurred on by the witless sounds from the public-address system, but rather the warm and impromptu sounds of fans who had gotten more out of this cool, sweet Memorial Day weekend than they ever could have imagined.",5,
+2,9,issue,6,A woman is expected to assume her husband's name when they marry.,1,
+2,9,issue,7,Custom and ritual decree that women assume the husband's name when they marry...,2,
+2,9,issue,8,the issue that women assume the husband's name when they get married.,2,
+2,9,issue,9,"Women taking their husbands second name when they get married, rather than keeping their original name.",1,
+2,9,issue,10,"This is an issue about a woman who is divorced and she wants to start a new life. But there is an identity crisis situation here. 
+""Men go through life with one name. Why can't women?"" See she is trying to keep her maiden name but the school keeps confusing her with her previous name when she was married. 
+She wants to remain a Kennedy and have her own sense of indiviality but the bank ,the insurance ,her mother the school will use her previous name Soran or her Current name wedge.   Why can't women just have there own name without have to show there wedding certificate to validate them.",2,allow  women to keep there own name if they want to and respect that.
+2,10,issue,6,The deregulation of the electric utility industry leading to growing emissions of carbon dioxide from power plants that burn coal and other dirty fuels.,2,
+2,10,issue,7,The Administration also wants to make sure that the deregulation of the electric utility industry does not lead to growing emissions of carbon dioxide from power plants that burn coal and other dirty fuels.,1,
+2,10,issue,8,the issue of growing emissions from compaines.,3,
+2,10,issue,9,Pollution permit credits and research budgets for how to lessen pollution by big companies and any incentives for reducing the emissions companies produce each year,1,
+2,10,issue,10,"This is an issue about Mr Clinton and his administration office.
+The United States is under pressure to explain its approach this week, as negotiations resume in Bonn on a treaty to reduce the world's emissions of pollutants that are building up in the atmosphere and threatening to disrupt the planet's climate during the coming century.
+
+Carbon dioxide, the main heat-trapping gas, comes primarily from the burning of fossil fuels. With the economy booming and energy cheap, United States emissions have been accelerating.
+
+So now they are trying to take precautional measurres by reducing emissions quickly would get credits, so that those moving fastest would benefit the most when, as the Administration envisions, the Government issues pollution permits that companies can buy and sell. This trading of pollution permits is the Administration's favored approach for letting the marketplace choose how to reduce emissions.",4,
+3,1,fact,11,"Many on campus were surprised to discover that Witten, the enfant terrible of physics, was a history major as an undergraduate.",1,
+3,1,fact,12,The fact that Edward Witten despite being skilled in physics was a history major,2,
+3,1,fact,13,Its refers to Mr Wittens undergrad degree for which he was a history major. This is in contrast with Science and Technology.,1,
+3,1,fact,14,The fact that Witten was a history major rather than one of a science and technology background.,2,
+3,1,fact,15,that Edward Witten was a history major as an undergrad,1,
+3,2,issue,11,"The F.A.S.B. will also be drawn into the debate over international accounting standards and how American rules, which are generally seen as among the strictest in the world, fit into them.",3,
+3,2,issue,12,The issue is how the F.A.S.B needs to tackle how to account for derivatives,3,
+3,2,issue,13,The international banking standards; improving and maintaining transparency. Financial reporting and working American standards and international standards together.,4,The longer the text the more difficult it is to put the statement together for question 4
+3,2,issue,14,"The issue of how to account for derivatives, in which the board believe that stock options should be treated as expenses.",4,
+3,2,issue,15,"that stock options should be treated like expenses, the businiess community made the FASB back down from their position.",2,Reading the whole article is not nessesary to identify the target issue
+3,3,fact,11,"When deer herds are hungry, they will eat just about anything.",2,
+3,3,fact,12,This fact refers to animals reacting with humans particularly in that instance the deer problem in the winter,4,
+3,3,fact,13,The issues associated with deer damaging gardens and plants when they are hungry,2,This was a more interesting article than the last and was more enjoyable 
+3,3,fact,14,That deer herds will eat almost anything when hungry causing a lot of damage.,2,
+3,3,fact,15,"Deers will eat just about anything, especially when the does are pregnant. This is bad for land owners that want to keep dear off their property, to prevent the damage that is the deer eating the land owners plants.",3,
+3,4,fact,11,Living expenses are much lower in rural India than in New York,2,
+3,4,fact,12,This fact refers to the difference in standards of living between different areas and how to establish a baseline is unfair as prices differ,3,
+3,4,fact,13,This refers to the cost of living in India vs New York and the currency conversion not being accurate due to the way of living in these countries,1,
+3,4,fact,14,"That living expenses are different in different locations, and therefore currency exchange rates are inappropriate when dealing with international poverty lines.",3,
+3,4,fact,15,Living expenses are much lower in rural india than in new york.,1,
+3,5,issue,11,The Clinton Administration's failure to come to a compromise on the signing of the land mines treaty.,3,
+3,5,issue,12,This issue relates to the Clinton Administration trying to get countries to change their stance on a land mine treaty,3,
+3,5,issue,13,Talks on the use of banning land mines in other countries (OUS) President Clinton is making calls to world leaders seeking support for the United States position on this topic,1,
+3,5,issue,14,"The issue of reaching a compromise on a land mines treaty in which the Clinton Administration would like the ability to deploy anti-personnel mines with anti-tank mines, allowed a country to withdraw from said treaty during war and postpone the effects of the ban for nine years.",5,
+3,5,issue,15,"the use of anti-personnel land mines, some anonymous countries think they might be okay to use",1,
+3,6,fact,11,That certain plants with gentle fragrances actually do have fragrances.,4,
+3,6,fact,12,This fact refers to plants in particular having gentle fragrances because that is not their most flauntable asset,4,
+3,6,fact,13,The smell of the Siberian iris,1,
+3,6,fact,14,That many plants have a gentle fragrance.,3,
+3,6,fact,15,that many plants have a fragrance that often goes undetected.,3,
+3,7,issue,11,Whether or not the court adopts a theory that is already approved by seven Federal circuits.,2,
+3,7,issue,12,This issue discusses the need for companies and corporations to tell the public about their private dealings and how it needs to be regulated,5,
+3,7,issue,13,Disclosures in relation to mergers and acquisitions,1,
+3,7,issue,14,"The issue of what a corporation can, and should, tell the public about mergers and acquisitions.",4,
+3,7,issue,15,the lawsuit,5,technical and complex subject matter
+3,8,issue,11,The eBay case.,5,
+3,8,issue,12,"This issue refers to MercExchange creation of the ""Buy it Now"" feature which eBay used but because of their failure to get a patent they weren't able to get an injunction but a 25 million dollar payout",3,
+3,8,issue,13,"A dispute between two groups; After failing to reach agreement with eBay on a license fee, MercExchange filed suit in 2001. It won damages of $25 million but wanted an injunction as well",3,
+3,8,issue,14,The issue of an injunction in regards to infringement in patent cases.,5,
+3,8,issue,15,the historical precedent for a legal decision,5,
+3,9,fact,11,"Party of Five'' will go on on a six-week hiatus after tonight's episode, enough time for the title sequences to be changed to ''Party of Four.",1,
+3,9,fact,12,The fact refers to how shows use important big life events in order to garner ratings such as using Charlie Salinger's Hodgkins disease,5,
+3,9,fact,13,"Party of Five'' will go on on a six-week hiatus after tonight's episode, enough time for the title sequences to be changed to ''Party of Four.' This is due to one of the casts medical diagnosis and the possibility of him not returning to the show as a result.",1,
+3,9,fact,14,The fact that the title change could happen in the six-week hiatus.,3,
+3,9,fact,15,"the tv show: party of five, will be off air for 6 weeks",1,
+3,10,issue,11,And Secretary of State James A. Baker 3d indicated that the United States was preparing to relax its opposition to increasing economic aid to Moscow.,1,
+3,10,issue,12,This issue refers to George Busy giving the baltic states their independence in the midst of the collapse of the Soviet Union,4,
+3,10,issue,13,Baltic states being granted independence and Bush naming US ambassadors in these counties,1,
+3,10,issue,14,The issue of the US preparing to relax its opposition to increasing financial aid to Moscow.,4,
+3,10,issue,15,the indication that the US was preparing to relax its opposition to increasing economic aid to moscow,4,
+4,1,fact,16,Plants that arent being eaten by deer as their scent is too strong,2,
+4,1,fact,17,Plants with milky stems will not be eaten by deer.,2,I am not sure if they are literally scared off or if they just leave it alone; either way the deer don't eat plants with milky stems so that's all that matters.
+4,1,fact,18,"Research has confirmed that plants with heavy scents, fuzzy or prickly leaves are the type of plants that deer choose not to eat.",2,
+4,1,fact,19,It refers to the preference that deers show towards certain types of plants over others,2,
+4,1,fact,20,the fact that plants with heavy scents and with fuzzy and prickly leaves are not usually consumed by deer`s so gardeners can plant them freely.,3,
+4,2,issue,16,The refusal of the US to hold talks over the proposed reduction in nuclear weapons by the West German government,4,
+4,2,issue,17,For the U.S to begin negotiating with Moscow on reducing the number of  (short-range) nuclear weapons. This negotiation was encouraged by West Germany.,4,
+4,2,issue,18,a sudden request from West Germany to open negotiations soon with the Soviet Union on reducing battlefield nuclear weapons in Europe,4,
+4,2,issue,19,The issue of opening talks with Moscow on reducing short-range nuclear missiles and artillery guns,4,
+4,2,issue,20,the issue of negotiations to reduce battlefield nuclear weapons in Europe.,5,
+4,3,issue,16,That Republican's need to appear to be interested in helping with the price of prescription drugs in order to avoid being labelled 'do nothing,4,
+4,3,issue,17,"Issue: Legislation that makes prescription drugs more affordable to elderly folk. The Democrats and Republicans are ""racing"" to provide solutions to this issue in an attempt to garner support.",3,
+4,3,issue,18,"At the moment, the prescription drug issue is the most pressing.",1,
+4,3,issue,19,The issue of making prescription drugs more affordable for the elderly.,3,
+4,3,issue,20,the issue of prescription drugs.,2,
+4,4,fact,16,"In a group of friends, only the white members of this group were allowed to swim in a local pool but the black friends with them couldn't",2,
+4,4,fact,17,It refers to the land being legally open to white people ONLY.,1,
+4,4,fact,18,The stipulation that the recreational area is to be used for the benefit of white children of Saluda County,1,
+4,4,fact,19,The fact that only white children were allowed to use the recreation area in Saluda County as stipulated in the will written by a wealthy landowner.,1,
+4,4,fact,20,fact that the pool at Saluda Swim and Tennis Club was only to be used by white children of Saluda County.,2,
+4,5,fact,16,Strains of lab mice vary radically in outcomes to low-dose ethanol exposure,3,
+4,5,fact,17,Outcomes of alcohol dosage vary because of genetic differences from person-to-person and or mice-to-mice. This argues against alcohol usage during pregnancy.,1,
+4,5,fact,18,Genetic differences between individuals mean that experiments on living things would produce variable outcomes.,3,
+4,5,fact,19,"The exposure to alcohol for both humans and mice has a variable outcome, which is rooted in genetic differences.",1,
+4,5,fact,20,The fact that low dose fetal exposure to alcohol produces different results due to differences in genetics.,3,
+4,6,issue,16,"Instances in US law enforcement where individuals have been killed not for committing a crime, but simply standing on the street.",3,
+4,6,issue,17,The amount of power the police have to stop and question people who are doing nothing except standing around.,4,
+4,6,issue,18,"In the name of law and order, how much license do we give the police to stop and question citizens",1,
+4,6,issue,19,The issue of police shooting and killing innocent people.,2,
+4,6,issue,20,the issue of  Mr Diallo being shot to death by police officers who suspected him of terrorism without proof.,4,
+4,7,issue,16,Whether two men from Northern Ireland were involved in a secret Protestant terrorist organisation,5,
+4,7,issue,17,The statement read in court in which the author and publisher express regret for accusing the Prentices brothers of being part of a secret committee of Protestant terrorists; there is disagreement as to whether this statement is a formal apology or not.,5,Had to re-read it in order to get the gist of things.
+4,7,issue,18,The issue refers to whether Sean McPhilemy and Roberts Rinehart believed that they did anything wrong.,4,
+4,7,issue,19,"The issue of Mr. Sands' recantation, which Mr. Taylor seems to view as an apology.",4,
+4,7,issue,20,the issue of a law suit against a publishing company that accused the  Prentice brothers who are car dealers are a part of secret terrorist committee.,5,
+4,8,issue,16,The choosing of an administrator of the Panama Canal that has to be confirmed by the Bush administration,4,
+4,8,issue,17,"Selecting a new Panama Administrator will come down to the Panamanian leader, of the Democratic party. This selection will cause friction as the Republican party is predicted to win the new election.",5,A lot of back and forth in the article made it really hard to gauge which issue the writer is referring to. 
+4,8,issue,18,The choice for administrator of the Panama Canal,2,
+4,8,issue,19,Choosing and confirming the administrator of the Panama Canal,3,
+4,8,issue,20,the issue of refugees from Nicragua wanting entry into the United States.,5,
+4,9,fact,16,That rugby is an upper class sport that is played by high ranking members of society,3,
+4,9,fact,17,"The fact that rugby is played by gentleman and people who are geared towards success; these successful people are found in college ""where rugby comes to life"".",4,
+4,9,fact,18,The upper-crust pedigree of rugby has been on display since the last century.,2,
+4,9,fact,19,The fact that rugby comes to life in college.,3,
+4,9,fact,20,the fact that rugby is a sport that can be played by anyone regardless of their career and also gives them an opportunity to make friends.,5,
+4,10,fact,16,The Social democrats under Mr. Carlsson attracted higher numbers of older voters to his rallies but didn't have a lot of young voters there showing their support,2,
+4,10,fact,17,That the voters for Mr. Carlsson are abundantly older folk.,1,
+4,10,fact,18,Mr. Carlsson's election eve rallies in Goteborg on Saturday attracted a high proportion of older voters.,1,
+4,10,fact,19,The fact that the rallies attracted more older voters than younger ones.,4,
+4,10,fact,20,the fact that Mr Carlsson`s social Democrats party got less than 44 percent of votes due to them failing to reach out to younger Swedes.,4,
+5,1,issue,21,The issue is the banning of smoking in all New York restaurants.,1,
+5,1,issue,22,"The likelihood of smoking being banned in restaurants in Albany, and how the issue is now receiving more attention than previously thought.",4,The article was worded quite poorly.
+5,1,issue,23,the tobacco bill,2,
+5,1,issue,24,The difficulty of the push towards banning smoking in indoor restaurants becoming a law due to economical drawbacks,2,
+5,1,issue,25,the instance refers to how Republicans view the possibility and swiftness of getting an anti-smoking bill in law,5,the text was very wordy which made it difficult to carry a solid idea through each paragraph .  The reference also seemed ambiguous.
+5,2,fact,21,"This fact refers to immigrants with poor English skills had less schooling and therefore lower wages, and that these disadvantages often trickled down to their children even if they are naturalized citizens.",1,
+5,2,fact,22,That learning English is not as easy for non-English speaking immigrants as previously thought and maybe down to a theory which states learning a new language after the age of 11 is almost impossible.,3,
+5,2,fact,23,"English-speaking and non-English-speaking immigrants who arrived in the United States around the critical period age have poor English skills, less schooling and substantially lower wages",2,
+5,2,fact,24,"Learning English so to integrate into US society is much easier if done so at a younger age, making it more difficult for older immigrants to do so",1,
+5,2,fact,25,"the highlighted instance refers to the fact that non-English-speaking immigrants who arrived in the States at the ages of 11 or 12 , struggle with academics , have less job opportunities and end up earning the bare minimum and this affects their children's lives and opportunities as well.",1,
+5,3,issue,21,"This issue refers to Mr. Mitvol's statements of ""No action, no taxes, no jobs ... 'If a company doesn't have the money, isn't in the mood, or doesn't have the desire to develop a field, they should return it to the state'', referring to other oil company failures in Russia.",1,
+5,3,issue,22,Russia Threatening to Revoke Lukoil Licenses,3,
+5,3,issue,23,revoking oil field licenses held by the country's largest private energy Lukoil,1,
+5,3,issue,24,"Large, privately owned oil companies in Russia are using a lot of the resources but not contributing to the country as it is a private company",5,
+5,3,issue,25,"The energy companies involved in Russia, and their productivity , but mainly the Lukoil company and their failure to drill in the 19 fields",3,
+5,4,issue,21,"This issue refers to French medievalists,  ""after the bitter loss of the Franco-Prussian War of 1870"", striving ""to disprove earlier theories to the effect that the first French epics, in particular the Song of Roland, were offshoots of German culture, transmitted by Charlemagne's Frankish - that is, German - soldiers and balladeers"".",1,
+5,4,issue,22,"French, poetry, literature spanning 12 centuries.",5,Very poorly written article
+5,4,issue,23,The Strasbourg Oaths,1,
+5,4,issue,24,"Issue of ''cultural pride'' creating a ''scholarly problem'' as, when they lost a war, French medievalists were trying to disprove earlier literature to improve their image",5,
+5,4,issue,25,"the issue is French medievalists striving to  disprove theories to the effect that the first French epics, in particular the Song of Roland, were offshoots of German culture, transmitted by Charlemagne's Frankish - that is, German - soldiers and balladeers",5,"the text was very long and wordy, it had a linear topic however it was not concise ,although literary and political history are intertwined, processing them simultaneously made the text difficult "
+5,5,fact,21,This fact refers to the Muslim refugees who were placed in western Bosnian towns at the beginning of the war because they were evicted from their homes at gunpoint.,1,
+5,5,fact,22,"The war against the Bosnian government that has seen groups of Muslims oppose each other, and oppose Serbians,",4,
+5,5,fact,23,Muslim refugees were evicted at gunpoint from their homes by the Bosnian Serbs at the beginning of the war,2,
+5,5,fact,24,"Muslims support for Mr Abdic is not affected by the fact that Mr Abdic supports peace with the Serbs and has support from their troops, even though the Serbs aggressively evicted Muslims",3,
+5,5,fact,25,These Muslim refugees had been evicted at gunpoint from their homes by the Bosnian Serbs at the beginning of the war.,1,
+5,6,fact,21,"This fact refers to Donna DeVarona's diminished role at the network over the years due to the fact ""of the change in events covered by ABC Sports, including the loss of the Olympics. ABC Sports has not had broadcast rights to the Games since 1988"".",1,
+5,6,fact,22,DeVarona claiming unfair dismissal from ABC Sports on the grounds of age and gender discrimination and wishes to sue the company.,2,
+5,6,fact,23,Her role at the network had diminished greatly over the years because of the change in events covered by ABC Sports and the loss of the Olympics in 1988,1,
+5,6,fact,24,"DeVarona's work demand was diminishing due to a change of what was popular vs what she covered, which is what they are suggesting is the reason for her termination instead of what she is arguing it is for.",1,
+5,6,fact,25,"A statement released by ABC Sports yesterday said that deVarona's role at the network had diminished greatly over the years because of the change in events covered by ABC Sports, including the loss of the Olympics. ABC Sports has not had broadcast rights to the Games since 1988.",1,
+5,7,fact,21,"This fact refers to ""every important elected official automatically becomes a party leader"".",1,
+5,7,fact,22,Politicians Are Always Party Leaders,5,
+5,7,fact,23,Every important elected official automatically becomes a party leader,1,
+5,7,fact,24,every important elected official has become party leader,1,
+5,7,fact,25,every important elected official automatically becomes a party leader,1,
+5,8,fact,21,"This fact refers to the interviewee's deduction that ""both reason and emotion are part of our life mechanisms"", which builds upon the premise of the entire article.",2,
+5,8,fact,22,"What emotions and feelings feel like, and how they effect decision making",3,
+5,8,fact,23,Emotions can play a role in how you normally operate,1,
+5,8,fact,24,Emotion can interfere with judgement,4,
+5,8,fact,25,emotions can play a role in how you normally operate,1,
+5,9,issue,21,"This issue refers to ""bureaucratic gridlock in Washington"". between Moscow and Washington.",3,
+5,9,issue,22,Russians and Americans coming together years after the war to agree a peace treaty.,5,
+5,9,issue,23,Getting the State Department and Congress to agree on letting the Russians move into their building in return for a land deal,3,
+5,9,issue,24,The building for American diplomats in Russia is not up to standard,3,
+5,9,issue,25,"Russian diplomats have been enjoying their new facilities for some months, under an agreement reached two years ago by Moscow and Washington. Not so American diplomats in Moscow. Their new offices in the incomplete new building are empty, kept that way since 1985 by a persistent if little-publicized case of bureaucratic gridlock in Washington.",3,
+5,10,fact,21,"This fact refers to a study conducted in 1999 where ""experts set a record by factoring a 155-digit number -- a feat that required 292 computers grinding away for half a year. Because of the exponential nature of the problem, factoring a number twice that long could take hundreds of millions of years"".",1,
+5,10,fact,22,Attempts to calculate using quantum computers,5,
+5,10,fact,23,Quantum factoring,5,
+5,10,fact,24,The larger the number is the more difficult it is to create codes as factoring it could take such a long time,5,
+5,10,fact,25,"In 1999, experts set a record by factoring a 155-digit number -- a feat that required 292 computers grinding away for half a year. Because of the exponential nature of the problem, factoring a number twice that long could take hundreds of millions of years.",1,
+6,1,fact,26,The poverty of Myanmar,1,
+6,1,fact,27,"the people of Myanmar are becoming increasingly aware that they are one of the poorer countries of Asia, with only 32% having access to safe water",2,
+6,1,fact,28,"It is referring to how poor Myanmar(Burma) is and that the people are really struggling to live a good healthy life, hence the situation.",2,
+6,1,fact,29,Myanmar which is also as Burma has been among the poorer countries in Asia.,3,
+6,1,fact,30,"The population of Myanmar, also known as Burma seems increasingly aware of the fact that it is among the most poorer countries in Asia.",4,
+6,2,issue,26,The use of American funds to pay outstanding debts,2,
+6,2,issue,27,the Philippines being in a substantial amount of foreign debt has been an issue in the negotiations between america and the philippines,3,
+6,2,issue,28,That a substantial amount of the American aid will be used to help pay outstanding foreign debts.,2,
+6,2,issue,29,"According to the authorities, the Philippines would be able to use a large portion of the American assistance to help pay off unpaid international debts.",3,
+6,2,issue,30,"The referred issue is that Philippines had outstanding  foreign debts, but now American aid will help up to pay those debts.",2,
+6,3,fact,26,better then expected stock and bond markets in Brazil,2,
+6,3,fact,27,investors being surprised at the Brazil emerging market heightened demand for them to expose themselves to the market,4,
+6,3,fact,28,This fact refers to the quick turnaround in Brazil that surprised many investors and it left many of them without what they normally have thought was the right amount of exposure to Brazil.,4,"I was not sure how to rephrase that sentence, thus it made it hard."
+6,3,fact,29,"Many investors have been shocked by Brazil's swift turnaround. It has left many of them without what they would have perceived to be the acceptable degree of exposure to Brazil, which has increased demand.",4,
+6,3,fact,30,A referred fact is that Brazil has made a big and quick turnaround in the market which surprised many investors and helped to increase the demand.,5,the article was very difficult to understand
+6,4,fact,26,Hummingbirds needing to eat three times thier body weight each day,1,
+6,4,fact,27,kinglets must eat three times their body weight each day to keep them warm through the night,2,
+6,4,fact,28,It refers to the fact that the kinglet has to eat three times their body weight each day to allow them to keep warm by shivering through the cold night.,3,
+6,4,fact,29,"refers, To build up the reserves that allow them to stay warm by shivering during the frigid winter, they must eat three times their body weight per day.",5,
+6,4,fact,30,"The fact referred to is that tiny olive-colored bird, kinglets are the main winter survivors, and this is because they eat three times their body mass everyday which keeps them warm by shivering through the night.",5,this was a very difficult article.
+6,5,fact,26,People's desire for a strong activist government that will improve basic aspects of their lives,1,
+6,5,fact,27,the white working class want a strong activist government that want to improve the basic aspects of their lives,1,
+6,5,fact,28,"It refers to the fact that voters want a strong, activist government and one that will provide improvements in basic aspects of their lives.",2,
+6,5,fact,29,"These people, who make up to 55 percent of the electorate, want a solid, activist government that can offer ""improvements in fundamental facets of their lives,"" according to the writer, as well as a political party that understands them.",2,
+6,5,fact,30,The fact is that any party that includes the subordinate groups or improves their lives they stand a great advantage to enjoy elections for 30 years at least.,4,
+6,6,fact,26,The writer read Ms. Register's work in an essay years ago,1,
+6,6,fact,27,that the writer heard Ms. register's voice years ago in a different setting altogether regarding feminism,4,
+6,6,fact,28,It refers to the fact that the author first heard Ms. Register's voice years ago in an essay reviewing feminist literacy criticism.,3,
+6,6,fact,29,"Chronically disabled people participate in the variety of human activities enjoyed by society in general, sometimes more earnestly than those that are healthy: having responsible jobs and doing them well, raising physically and emotionally strong children, and keeping intimate relationships with friends and partners.",5,
+6,6,fact,30,"the referred fact is that chronic illness is not a profession, chronic illness is not what matters most to people....they have lives outside their illness. People are not defined by their illness.",3,
+6,7,fact,26,The salary of sanitation workers,1,
+6,7,fact,27,"highly paid sanitation workers can earn more than $55,000, as much as senior public school teachers who hold doctorates",2,
+6,7,fact,28,It refers to the fact that sanitation workers can receive a higher wage that a senior public school teacher who hold a doctorate.,3,
+6,7,fact,29,The retiring president Of Sanitation Union demonstrated how they had to clean up trash after five days of flooding.,5,
+6,7,fact,30,"Fact is that Mr Ostrowski refused to apologies for stating that sanitation workers work very hard for the money they are being payed, it is dangerous work they do who some even got AIDS while in duty.",5,
+6,8,issue,26,Soviet Jewish immigration being used to rationalize Israeli entrenchment,3,
+6,8,issue,27,the strong American opposition to Jewish settlement in the West Bank,4,
+6,8,issue,28,That the State Department described them as not helpful and reiterated the strong American opposition to Jewish settlement in the West Bank.,3,
+6,8,issue,29,"Using the Soviet Jewish immigration problem to justify Israeli encirclement, territorial extension, and intransigence would ultimately have disastrous consequences for regional peace.",4,
+6,8,issue,30,"The issue is the rationalization for Israeli entrhenchment, territorial expansion and intransigence will results in disasterous effects on peace in the region.",5,
+6,9,issue,26,Literal interpretations of the bible being used to justify hate and discrimination,2,
+6,9,issue,27,a scriptural argument over homosexuality,4,
+6,9,issue,28,That abolitionists could break away from Southern churches over the issue of slavery again.,3,
+6,9,issue,29,"Rev. David Dyson, pastor of the Lafayette Avenue Presbyterian Church in Brooklyn, said his congregation was established at a time when abolitionists were breaking away from Southern churches over slavery. One hundred and forty years later, he was afraid that the church would be divided once more.",5,
+6,9,issue,30,"The issue is that history might repeat itself accoding to the Rev. David Dyson, abolitionists might break away from Southern churches over slavery.",4,
+6,10,issue,26,New York refusing to take a stance on updating their voting systems,1,
+6,10,issue,27,"New York will pick their voting machines, after the State Board of Elections certifies which machines meet federal standards",5,
+6,10,issue,28,That the State Legislature took the courageous position of kicking it to the localities.,5,
+6,10,issue,29,"Because of legislative gridlock and little apparent leadership.Due to political gridlock and a lack of visible leadership. Legislators have yet to pass a law setting requirements for the devices or decide the required registration for legitimate voters, despite the fact that the tentative change took years. It hasn't yet filled long-term vacancies on the Board of Elections, which is meant to be bipartisan but is governed by Republicans due to political manoeuvring.",5,
+6,10,issue,30,The issue is that lawmakers have not enacted a bill setting guidelines for the machines or determine the appropriate identification for legitimate voters.,5,very hard article.
+7,1,fact,31,Refers to Korbel defecting to the United States,3,
+7,1,fact,32,Korbel working with the communists following the war,3,
+7,1,fact,33,Blackman showing Josef Korbel  shaped decisively Albright,5,
+7,1,fact,34,The fact that Korbel worked with the Communists and tried to conceal this from the United States after his defection.,1,
+7,1,fact,35,The fact that Korbel may have lied about working briefly with the Communists.,2,
+7,2,issue,31,This issue refers to the Soviet officials strict interpretation of the ABM treaty,2,
+7,2,issue,32,the manner in which the ABM treaty is interpreted by the soviets,4,maybe more difficult because there was a lot of information proceeding it 
+7,2,issue,33,star war testing,5,
+7,2,issue,34,"How the ABM treaty should be interpreted. Russia insists on a strict interpretation whereas United States interpreting it broadly so as to allow ""Star wars"" testing.",2,
+7,2,issue,35,"A dissagreement the terms of a proposed treaty about short, medium and long range missiles between the Soviet Union and the United States.",3,
+7,3,fact,31,"this fact refers to long married couples and how happily ever after doesn't happen but with work, commitment and love one can have a happy ending",1,
+7,3,fact,32,refers to the notion of 'happily ever after,3,the elephant comparison threw me off 
+7,3,fact,33,happily ever after,3,
+7,3,fact,34,"The fact that long and happy marriages don't just happen and that the couples have to work for a successful relationship. There has to mutual commitment, love, respect and concern from both sides.",1,
+7,3,fact,35,Relationships take work and don't just happen.,1,
+7,4,issue,31,This issue refers to explosions of stockpiled nuclear weapons.,1,
+7,4,issue,32,the occasional explosion of stockpiled nuclear weapons to assure the weapons' reliability,4,again. a lot of information proceeding 
+7,4,issue,33,nuclear weapons,3,
+7,4,issue,34,issue of whether or not nuclear testing citing reliability issues is really required. Justifying testing based on reliability issues in the past has not been very essential.,2,
+7,4,issue,35,Whether or not nuclear weapons need test explosions.,2,
+7,5,issue,31,This issue refers to the abuse of decades-old labor law(s) which is intended to take advantage in the debate.,1,
+7,5,issue,32,whether the shutdown of most of the nation's freight railroads was a crisis created by hardline unions or a disruption devised by railroads taking advantage of a decades-old labor law,5,
+7,5,issue,33,The debate goes to the heart of labor relations in the railroad industry,2,
+7,5,issue,34,Issue of whether the shutdown of freight railroads is a genuine one or irrationally created by the labor unions. And whether strikes like these have further impacts on the industry,4,Very ambiguous as not enough information given
+7,5,issue,35,Whether the shutdown of most of the nation's freight railroads was a crisis created by hardline unions or a disruption devised by railroads taking advantage of a decades-old labor law intended to encourage negotiation.,1,
+7,6,fact,31,This fact is that the countries media is portrayed in a scattershot fashion in which we hate.,1,
+7,6,fact,32,the certain situations which they announce where they must remain unbiased,3,a little confusing
+7,6,fact,33,the battle,4,
+7,6,fact,34,The fact the reporters are only interested in the story and not worried about the repercussions surrounding the actions.,3,
+7,6,fact,35,Certain situations occur in which reporters must remain painfully above the battle i.e. they should remain unbiased and not get involved.,4,
+7,7,fact,31,pertinent to the moment when her characters come crashing down emotionally,5,
+7,7,fact,32,miss Gillis being a solo dancer,1,
+7,7,fact,33,Miss Gillis is a solo dancer,2,
+7,7,fact,34,That she is a solo dancer and that she performed a duet despite that is opposite to her regular self and it is visible in the act.,5,
+7,7,fact,35,The fact that Miss Gillis is a solo dancer.,1,
+7,8,fact,31,this fact refers to Ms. Watkins and Ms. Thomas trying to seek relief from the court in which they attempted to file for bankruptcy though having the assets in which they would still be solvent.,1,
+7,8,fact,32,"Ms. Watkins and Ms. Thomas ""appear to be financially solvent,",1,
+7,8,fact,33,appear to be financially solvent,5,
+7,8,fact,34,The fact the couple were in no financial trouble doesn't stop them from seeking remedy from the court.,2,
+7,8,fact,35,"Ms. Watkins and Ms. Thomas ""appear to be financially solvent,",1,
+7,9,issue,31,This issue refers to President Clinton's health plan,1,
+7,9,issue,32,the introduction of a health plan,4,"again, a lot of information and different names/statistics making it difficult "
+7,9,issue,33,Government-financed program of national health insurance,5,
+7,9,issue,34,The issue of the health plan to be rolled out by President Clinton and that the plan would put burden on taxpayers. The president seems to change his opinion to something totally different.,4,Wasn't able to understand which issue to discuss
+7,9,issue,35,Mr Clintons 1994 Healthcare Bill and the fact that the he was too willing to make concessions to the republicans.,3,
+7,10,issue,31,This issue refers to the Shoreham nuclear plant and the goal of elimination of its' barriers for equitable competition.,4,
+7,10,issue,32,elimination of barriers for equitable competition by small power producers that can produce power at lower cost than Lilco's rates,2,
+7,10,issue,33,elimination of barriers for equitable competition by small power producers that can produce power at lower cost than Lilco's rates,4,
+7,10,issue,34,The elimination of barriers for small power producers that produce power at a lower cost than lilco.,1,
+7,10,issue,35,The issue of eliminating barriers so that smaller power companies are able to compete and produce power at a lower cost than Lilco.,2,
+8,1,fact,36,It refers to Japan Inc. not having missed a beat when it comes to constantly rising share prices.,4,
+8,1,fact,37,That unequal equities was published before the Stock crash in Japan happened and The system the authors describe depends on constantly rising share prices,5,
+8,1,fact,38,The book was published before a stock crash.,5,I needed to read and reread the paragraph.
+8,1,fact,39,Japan's techniques in the stock market allowing for more money to be put into the companies themselves.,5,I had a very difficult time understanding what the article was talking about and do not feel confident in my understanding.
+8,1,fact,40,"Unequal Equities"" was published before last year's stock crash in Japan had run its course and the system descried depends on constantly rising share prices.",5,
+8,2,fact,36,"To the Bruderhof movement being regarded as a leader in child care, with good hygiene, safety and love.",2,
+8,2,fact,37,"our movement has long been regarded as a leader in the field of child care, and we take great pride in the hygienic, safe -- and above all, deeply loving -- care our children receive",4,
+8,2,fact,38,The Bruderhofer community's child care is exemplary.,1,Interesting topic.
+8,2,fact,39,"The Bruderhof religious community does not mistreat the members of its community as said in a separate article or book. In actuality, the community is safe, hygienic, and caring to its members.",2,This article made a lot more sense to me. 
+8,2,fact,40,"Our movement has long been regarded as a leader in the field of child care, and we take great pride in the hygienic, safe -- and above all, deeply loving -- care our children receive.",4,
+8,3,fact,36,To the wavelengths of atomic particles like electrons being far shorter than the wavelengths of light.,2,
+8,3,fact,37,the wavelengths of atomic particles like electrons are far shorter than the wavelengths of light,3,
+8,3,fact,38,Wavelengths of atomic particles are shorter than of light.,1,So many things happened since then in science!
+8,3,fact,39,wavelengths of light are longer than the wavelengths of atomic particles.,3,Not sure if I was focusing on too little.
+8,3,fact,40,The wavelengths of atomic particles like electrons are far shorter than the wavelengths of light,3,
+8,4,issue,36,It refers to the issue of Microsoft having made a videotape that was misleading to customers.,3,
+8,4,issue,37,the accusation that Microsoft illegally tied one product to another,5,
+8,4,issue,38,Microsoft is trying to stifle competition by integrating Explorer and Windows.,2,"Wow, feels like ancient history."
+8,4,issue,39,Microsoft made a videotape about internet browsing from Windows 98 but Microsoft Explorer and Windows are meant to be two separate products.,4,Not sure if I understood the concept being discussed. 
+8,4,issue,40,The issue that the Government says that Microsoft's Explorer browser and Windows are two separate products bolted together to stifle competition,3,
+8,5,issue,36,The issue of employers paying half the cost of the workers' health insurance premiums,3,
+8,5,issue,37,President Clinton said in an interview last week that he could not accept less than the Mitchell bill's approach to universal coverage. The Finance Committee's approach is less inclusive,5,
+8,5,issue,38,Require employers to pay partly for their workers' health insurance.,5,"Hard. I am not sure, I am not familiar with US political system. "
+8,5,issue,39,The issue is the employer payment issue in terms of health insurance. It is being determined if a current bill the Mitchell bill should remain or not.,4,I may have mixed up some information. 
+8,5,issue,40,"the Mitchell bill calls for a commission to recommend how to reach all uninsured Americans, and would, as a fallback position, require employers to pay half the cost of their workers' health insurance premiums in states below 95 percent coverage.",5,
+8,6,issue,36,To the fact that Islanders telecasts have not been carried by Fox Sports New York.,3,
+8,6,issue,37,"Fox Sports New York has refused to carry three Islanders telecasts because they conflicted with Devils' games, the executive who runs the cable channel said yesterday that he was not punishing the team",5,
+8,6,issue,38,this issue - when two interesting teams are playing  you can only telecast one of them,3,
+8,6,issue,39,The cable channel refused to air three Islanders telecasts because it would be aired at the same time as Devil's games.,2,I believe I understood this artcile. 
+8,6,issue,40,Fox Sports New York has refused to carry three Islanders telecasts because they conflicted with Devils' games,3,
+8,7,issue,36,To lawmakers who do not oppose the proposal for drilling rights in the wildlife refuge.,2,
+8,7,issue,37,the proposal to open part of the wildlife refuge to oil and gas drilling,4,"I am not sure but I think there might be two things that can be described issues here, the proposal to open part of the wildlife and the campaigns all over several states. "
+8,7,issue,38,leasing out wildlife refuge for oil and gas drilling,4,I am not super sure.
+8,7,issue,39,Lawmakers who side with those wanting to drill for oil in a wildlife refuge in Alaska.,2,
+8,7,issue,40,Conservation groups' vigorous campaign to persuade Republican moderates to oppose the entire budget measure because of the drilling provision,3,
+8,8,issue,36,The deployment of too many troops to Iraq.,1,
+8,8,issue,37,"the decision of President George W. Bush announced on January 10, 2007, to deploy more than 20,000 additional United States combat troops to Iraq",5,
+8,8,issue,38,this issue -denouncing army buildup in Iraq.,3,US politics is difficult for me
+8,8,issue,39,The majority of Democrats want to send additional US troops to Iraq and mejority of Republicans do not.,2,
+8,8,issue,40,"The issue to deploy more than 20,000 additional United States combat troops to Iraq.",4,
+8,9,fact,36,To creole languages having constant grammatical rules.,2,
+8,9,fact,37,"the slaves' children, who are exposed to the pidgin vocabulary before the age of 2, expand the protolanguage into a structurally mature language called a creole",5,
+8,9,fact,38,Grammar rules are surprisingly similar from one creole langue to the next,2,It is an interesting topic for me.
+8,9,fact,39,"The fact that ""proto language"" used by apes can be seen in humans who were not taught a language, providing evidence for the evolution of language.",2,
+8,9,fact,40,"The fact that the slaves' children, who are exposed to the pidgin vocabulary before the age of 2, expand the protolanguage into a structurally mature language called a creole.",5,
+8,10,issue,36,To the decision of sending troops to Bosnia or not.,2,
+8,10,issue,37,"For 200 years, Congress and Presidents have wrestled over who has the final authority to send troops where battles threaten",5,
+8,10,issue,38,"who has the right to decide to employ troops abroad, the Congress or the Presidents?",1,
+8,10,issue,39,Who has the authority over whether to send troops to battle or not.,1,
+8,10,issue,40,The issue that Congress and Presidents have wrestled over who has the final authority to send troops where battles threaten,4,
+9,1,issue,41,"I think it refers to the Welfare system, ""We've got a system now that says to women, if you marry someone who works we cut off your money, if you get a job we cut off your money, if you have more children we give you more money,"" Mr. Gramm said. ""Should we really be surprised that people have not done the things we penalize them to do, and they've done the things we've rewarded them to do?",4,Took me a couple reads to understand what was happening
+9,1,issue,42,"The issue of ending federal assistance to aliens, whether they are there legally or illegally.",3,
+9,1,issue,43,"Despite majority of the article talking about Dole's bill being a primary concern, particularly with single mothers who continuously have children and receive more child grant, the issue they are referring to is the federal assistance for aliens (possibly people from other countries staying in the USA). Mr Gramm and Mr Wilson want to end this assistance for those who are also in the country legally, and due to their majority vote and the other people in their political parties' favour, it was still mentioned despite not being in the bill.",5,I got confused about whether they were talking about the main purpose of the article or just the sentence prior.
+9,1,issue,44,"It's unfair for a young couple who work hard and pay taxes who cannot afford a child to continue saving to do so, but pay taxes to provide a greater stipend to a woman on welfare who continues to have one child after another out of wedlock,",2,"For a non native English speaker the text enviroment can be somewhat challenging, the article is slow to get to the point."
+9,1,issue,45,It refers to the amendment of proposed US Federal welfare law change to remove any assistance to those that are not American Citizens; 'alien's.,1,I very much imagine a debate like the above would be quite possible still today with some names changed. Not much seems to have changed in 25 years. 
+9,2,issue,41,Eliminating medium and short-range nuclear weapons in Europe,5,
+9,2,issue,42,A proposal to freeze the use of shorter range missile systems.,2,
+9,2,issue,43,"Mr Gorbachev had proposed that many weapons not be used, particularly the shorter-range systems but the President rejected this",5,
+9,2,issue,44,"We cannot permit the benefit of the reduction in longer-range intermediate nuclear force missiles, for example, to be undermined or circumvented by continuing imbalance'' in shorter-range missiles, ''in which the Soviets have a huge advantage,",1,Both sides distrust one another the USSR benefits if Long and Medium range delivery systems are dismantled.
+9,2,issue,45,It refers to the current deployment of short range missile systems in the context of de-escalation between the US and soviet union of the cold war and it's relation to the reduction of both medium and long range missile systems.,2,
+9,3,issue,41,Individuals should have the right to choose whether and to whom their personal financial and medical information is disclosed,1,
+9,3,issue,42,"It refers to a call for greater protection of citizen's data and privacy, as supported by Clinton.",2,
+9,3,issue,43,"Citizens of the USA's privacy is a huge concern for Clinton, as we are more online and in the information age, therefore protection measures need to be enforced. She believes that everyone should know where their information is being used, particularly their personal and financial measures. She has proposed multiple measures to help her stance on this and increase citizen's privacy.",1,
+9,3,issue,44,"She did call on Congress, however, to enact legislation to give consumers and patients control over health care and financial records, which she argued were becoming increasingly available because of computer databases and transmission of information through the Internet.",1,
+9,3,issue,45,"It refers to the personal privacy of US citizens data and control over how and to whom it is shared, in particular financial and medical data.",1,
+9,4,issue,41,"Camby wants to play games
+''To me, it doesn't matter if I start; I just don't want to get no d.n.p.'s,'' he said, referring to games in which he did not play, ''or play five minutes and I'm out of the game. I don't want to hear that stuff anymore. I want to play. I think I deserve the right to play.",2,
+9,4,issue,42,Camby wants to know how the Knicks team will be managed and structured as they have multiple players for one position.,2,
+9,4,issue,43,"A forward called John Wallace and new general managed Scott Layden were signed to the Knicks' team, which caused Marcus Camby to become insecure in his position in the team, as the numerous amount of players who can play as forward will cause him to possibly have less playing time. He is hoping to get some clarification on how important he is in the team, and possibly get a larger role and less games in which he is not playing in. He doesn't want to be substituted out as often.",1,
+9,4,issue,44,Camby fears he might not have a chance to play in the match becouse of his realtion with Coach Jeff Van Gundy.,1,
+9,4,issue,45,"It refers to whether Camby plays for the 'knicks', he wants to have play time of some sort of the other but cares not if it's starts.",3,Seemed to required knowing what exactly the 'knicks' are? I'm guessing basketball but it means nothing to me. 
+9,5,fact,41,Mr. Hamadi said the 1975 Algiers Treaty under which Iraq agreed to share the ownership of the Shatt al Arab with Iran no longer existed,2,
+9,5,fact,42,The fact is that the treaty which previously existed between Iran and Iraq no longer exists.,2,
+9,5,fact,43,"A treaty called the 1975 Algiers Treaty, which was based on Iraq agreeing to share ownership of the Shatt al Arab waterway, no longer exists.",1,
+9,5,fact,44,"Iraq claimed full sovereignty over ta disputed Shatt al Arab waterway, Iran immediately rejected Iraq's demand.",1,
+9,5,fact,45,That the 1975 Algiers treaty between Iran and Iraq pertaining to the shared ownership of the Shat Al Arab waterway no longer is applicable,2,
+9,6,fact,41,"There is no diversity in American housing
+""About one million new single-family houses are built annually across the country, the vast majority by merchant builders. Though there are currently about 120,000 individual builders in the United States, American housing is marked by uniformity rather than diversity.",1,
+9,6,fact,42,"There are currently about 120,000 individual builders in the United States,  but American housing is marked by uniformity rather than diversity.",1,
+9,6,fact,43,"Rather than American housing being marked by how different it looks, it is rather marked on how uniform it looks: how many houses look the same.",1,
+9,6,fact,44,"Though there are currently about 120,000 individual builders in the United States, American housing is marked by uniformity rather than diversity.",1,
+9,6,fact,45,"The american housing market is pretty homogenous, it is wholly about single family houses and there is a distinct lack of diversity within that category.",2,
+9,7,issue,41,"Mr. Motz contacted the State Department of Environmental Conservation, which offered to allow the installation of a sandbag barrier on the dunes as a temporary erosion barrier. But permission was also required from the town trustees, who administer the town's waters and beaches and are armed with a town law, passed last year, that bans beachfront pilings, bulkheads and other shore-hardening barriers.",4,
+9,7,issue,42,This issue is the erosion of the coastline due to heavy winter weather.,1,
+9,7,issue,43,"There is significant erosion on the beach due to the groins inserted by the Army Corps and Suffolk County. There was a erosion-control plan that was supposed to be completed in 2005 but was never created, as the budget was cut by the President by roughly 50 percent, and requires more funding in order to restore the beaches somehow, protect the shoreline and prevent erosion.",3,
+9,7,issue,44,The beaches erode at such a rate that it will danger the residents and their properties if intervention is not taken.,1,
+9,7,issue,45,It refres to erosion of beaches and natural shore defences along the New York Coast line and how it's been hastened by the installation of groins by the engineer corps.,3,Never heard of a groin in this context. 
+9,8,fact,41,"Wherever the stems touch the ground, the nodes give rise to roots and new stems.",1,
+9,8,fact,42,"Wherever chickweed plants grow, they have a network of fine roots which sprout new stems and cause the weed to spread and make it difficult to remove.",2,
+9,8,fact,43,"Chickweed can reproduce and root quite easily, and stems themselves can produce quite deep roots.",2,
+9,8,fact,44,Chickweed flowers stems give rise to roots and new stems underground witch makes this pest plant very hard to eradicate.,1,
+9,8,fact,45,The rampant spread of chickweed caused by it's proclivity to spawn new root systems where a stem touches the grown.,2,
+9,9,issue,41,"The leadership of Russia has adopted a resolute position toward the union treaty striving for the unity of the Soviet Union and unity of Russia""
+""the legally elected President of the country was removed from power.",5,
+9,9,issue,42,Russia has adopted a resolute position toward the union treaty striving for the unity of the Soviet Union and unity of Russia.,5,
+9,9,issue,43,"The president of Russia was removed from power and there is a change in the democracy of Russia, in which they are undergoing a transition .",5,I didn't quite understand what the issue was.
+9,9,issue,44,"In Russia the legally elected President of the country was removed from power by a coup according to Citizens of Russia newspaper witch will ""discredit them on the world stage"" and potentially plunge the world back into a cold-war",1,
+9,9,issue,45,The unity of the soviet union in reaction to the moves to democracy and a coup attempting to upend that move.,3,
+9,10,fact,41,"The increase in demand for tax-exempt municipals is helping to offset the downward pressure on the market from the continuing flood of new issues as states, cities, towns and other entities take advantage of lower interest rates.
+
+Despite the record $232.4 billion of new issues last year -- which included $120.5 billion in refinancings -- analysts said there were still plenty of higher interest rate bonds to be replaced with lower interest rate bonds.",5,
+9,10,fact,42,There are higher interest rate bonds which must be replaced by lower interest rate bonds.,5,
+9,10,fact,43,Higher interest rate bonds are being replaced with lower interest rate bonds.,2,
+9,10,fact,44,"The increase in demand for tax-exempt municipals is helping to offset the downward pressure on the market from the continuing flood of new issues as states, cities, towns and other entities take advantage of lower interest rates.",2,
+9,10,fact,45,The volume of tax-exempt bonds being issued and the value of them in the context of how tax raised affects the yield of non-taxable items.,4,
+10,1,issue,46,Limits to be placed on air-launched cruise missiles.,1,
+10,1,issue,47,America and the Soviet union have come to some agreements on issues in regards to nuclear missiles,3,
+10,1,issue,48,the limits to be placed on air-launched cruise missiles,1,
+10,1,issue,49,The limits to be placed on air-launched cruise missiles,2,"Quite a long piece of text there, with lots of different issues. I hope I have identified the correct issue."
+10,1,issue,50,The limits to be placed on air-launched cruise missiles.,2,
+10,2,issue,46,The 1979 decision to intervene in Afghanistan,2,
+10,2,issue,47,The soviet union has expressed regret about intervening within Afghanistan however some such as marshal akhrohmeyv disagree saying it was not a mistake.,1,
+10,2,issue,48,The Soviet military believes the 1979 decision to intervene in Afghanistan ''was not a mistake.,3,
+10,2,issue,49,"Marshal Akhromeyev's view on the 1979 decision to intervene in Afghanistan was not a mistake, whereas other Soviet political leaders have expressed regret.",1,
+10,2,issue,50,The intervention of the Soviet military in Afghanistan in the year 1979.,1,
+10,3,fact,46,"Hall of Fame at Cooperstown was originally intended to honor not only players of exceptional ability, but those of exemplary virtue and integrity as well.",2,
+10,3,fact,47,That Gil Hodges should be included in the hall of fame because he has an impressive career record.,1,
+10,3,fact,48,"the Hall of Fame at Cooperstown was originally intended to honor not only players of exceptional ability, but those of exemplary virtue and integrity as well.",1,
+10,3,fact,49,"the Hall of Fame at Cooperstown was originally intended to honor not only players of exceptional ability, but those of exemplary virtue and integrity",5,I have no idea about sports
+10,3,fact,50,"The fact that the Hall of Fame at Cooperstown was originally intended to honor not only players of exceptional ability, but those of exemplary virtue and integrity as well.",1,
+10,4,fact,46,Juries and judges increasingly give battered wives a break in murder cases,2,
+10,4,fact,47,That there is inconsistency with how judges and juries are charging battered wives when they commit crimes against their husbands.,3,
+10,4,fact,48,"abused women, estimated at three to four million nationally, have real, if difficult alternatives.",3,
+10,4,fact,49,"abused women, estimated at three to four million nationally, have real, if difficult alternatives",1,
+10,4,fact,50,"The fact is that abused women, estimated at three to four million nationally, have real, if difficult alternatives.",2,
+10,5,fact,46,Each piece is constructed from a single tree,3,
+10,5,fact,47,"That Mr Nash, creates pieces of artwork with a single tree but gives the illusion that it is not from a single source as he manages to change the the textures by using advanced carving techniques.",2,
+10,5,fact,48,Each piece is constructed from a single tree,1,
+10,5,fact,49,"Each piece is constructed from a single tree, and it is among the artist's talents to disguise this",1,
+10,5,fact,50,"The Wilds and the Deep is in part a critique of the way objects wrenched from their native cultures or environments are venerated, the installation is full of precious details that tempt a viewer to make fetishes of Ms. Lapointe and Ms. Fleming's alterations and constructions.",5,
+10,6,fact,46,The New Jersey renaissance isn't generating too much derogatory humor these days,2,
+10,6,fact,47,The humor and jokes told in the state of new jersey is changing to become less derogatory. There is mixed feeling about this as some who grew up in the area have memories of how it used to be.,4,
+10,6,fact,48,the New Jersey renaissance (as the public relations people like to call it) isn't generating too much derogatory humor these days,1,
+10,6,fact,49,"the New Jersey renaissance isn't generating too much derogatory humor these days, which makes the author feel mixed feelings",4,A bit of a guess here
+10,6,fact,50,The New Jersey renaissance is not generating too much derogatory humor.,3,
+10,7,issue,46,Pedophilia is a terrible disease that wreaks horrible things in people's lives,2,
+10,7,issue,47,That we hold priests and nuns in higher regard and expect them to behave in a different way when infact they are human too and can make mistakes or act upon bad intentions like everyone else,5,
+10,7,issue,48,That priests are not saints and are capable of heinous crimes like any other human being.,1,
+10,7,issue,49,Pedophilic abuse of children by diocesan priests,1,
+10,7,issue,50,The issue of people being sexually abused by diocesan priests.,2,
+10,8,issue,46,A judge overturning Roe v. Wade,3,
+10,8,issue,47,"That judges are enhancing their positions, beginning to include their view on topics to make the law rather than interpreted and applying it",4,
+10,8,issue,48,"Roe v. Wade, the decision of the United States supreme court on the restriction surrounding safe and legal abortion.",1,
+10,8,issue,49,"Voting for or against a well-qualified Supreme Court nominee, knowing they would overturn Roe v Wade to criminalise abortion",1,
+10,8,issue,50,The issue of Judges who wanna make the law instead of interpreting it.,3,
+10,9,issue,46,Mr. Dusenberry making antiabortion commercials.,2,
+10,9,issue,47,That peoples views can change over time as they age and become more open to certain topics.,5,
+10,9,issue,48,"Mr. Dusenberry has also, on his own time, made antiabortion commercials",1,
+10,9,issue,49,Mr Dusenberry's antiabortin views,2,"I wasn't sure if it was his views that where the issue, or the fact he had made commercials on his own"
+10,9,issue,50,Making antiabortion commercials.,1,
+10,10,fact,46,Trans fatty acids being added to some liquid vegetable oils to extend the oil's shelf life,2,
+10,10,fact,47,"Man made fatty acids are used in food to increase shelf life and create products. The health issues that can occure with these is not advertised on the label, giving light to the fact the food labels are often misleading.",3,
+10,10,fact,48,Trans fatty acids are also added to some liquid vegetable oils to extend their shelf life.,1,
+10,10,fact,49,"The adding of trans fatty acids to liquid vegetable oils to extend their shelf life, when these have been linked to causing breast cancer, and not stating their addition on the label",1,
+10,10,fact,50,Trans fatty acids are also added to some liquid vegetable oils to extend their shelf life.,1,
