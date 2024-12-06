@@ -24,3 +24,42 @@ def wide_to_long(frame):
     """reshape the joined wide sentence-answer frame to long format"""
     frame_long = frame.set_index("sentence", append=True).stack().rename("answer")
     return frame_long.reset_index(2).droplevel(-1)
+
+
+def add_sentence_index(frame):
+    return frame.groupby(level=["batch", "file"]).apply(
+        lambda f: f.reset_index(drop=True).rename_axis("sent_index")
+    )
+
+
+def get_mapped_sent_indexes(frame):
+    # drop all indexes except for the sent_index
+    reindexed = frame.set_index(frame.reset_index().sent_index)
+
+    return reindexed.idxmax()
+
+
+def get_prediction(scores):
+    """
+    Get the top-voted sentence, preferring the sentence closest to
+    (but preceding) the SN sentence in case of ties.
+    """
+
+    top_sents = (
+        scores.groupby(level=["batch", "file"])
+        .apply(get_mapped_sent_indexes)
+        .mode(axis=1)
+    )
+
+    # create a mask that only includes sentences preceding the SN sentence
+    shellnoun_sents = scores.reset_index()
+    shellnoun_sents = shellnoun_sents[shellnoun_sents.is_sn_sent].sent_index
+
+    m = top_sents.ge(shellnoun_sents.values[:, None])
+
+    # but always include the first column (in order to avoid empty rows)
+    m[0] = False
+
+    prediction = top_sents.mask(m).ffill(axis=1)
+
+    return prediction.astype(int).iloc[:, -1]
