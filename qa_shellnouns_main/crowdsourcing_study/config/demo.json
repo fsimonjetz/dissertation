@@ -1,0 +1,119 @@
+{
+  "focusFirstQuestionAutomatic": false,
+  "showProgressBar": "top",
+  "completedHtml": "<h2>That\u2019s it! Thank you for your participation.</h2>\n<p>If you\u2019re not redirected to Prolific within a few seconds, please <a href=\"https://app.prolific.co/submissions/complete?cc=6DA900FF\">click here</a>.</p>",
+  "loadingHtml": "<p>Loading survey...</p>",
+  "pages": [
+    {
+      "name": "landingPage",
+      "elements": [
+        {
+          "type": "html",
+          "name": "welcomeText",
+          "html": "<h1>Reading Comprehension Study</h1>\n<div id=\"instructions\">\n<h3>Welcome!</h3>\n<p>In this study we are trying to find out how readers interpret a specific group of words that are commonly used to describe things and situations in newspaper articles, forum discussions, chats, etc.</p>\n<p>You will see 10 randomly selected articles about different topics published in the New York Times during the past 30 years. In each article, the author will at some point refer to some \u201cissue\u201d or \u201cfact\u201d, and your job will be to outline what specifically the author is talking about.</p>\n<h3>Instructions \u2013 Please Read Carefully</h3>\n<p>There is exactly one target phrase per text such as <span id=\"shellnoun\">this issue</span> in the example below. Please start by reading each of the articles from the beginning up to the highlighted target phrase.</p>\n<blockquote>\n<p><strong>Egypt Warned U.S. of Terror, Mubarak Says</strong></p>\n<p>President Hosni Mubarak of Egypt said today that the United States could have prevented the bombing of the World Trade Center if American officials had heeded his country\u2019s warnings about an Islamic fundamentalist network in the United States.</p>\n<p>[\u2026]</p>\n<p>Concerning the Middle East peace talks, Mr.\u00a0Mubarak said he would \u201ctry to do my best with the President\u201d to persuade him to urge the Israelis to speed the return of about 400 Palestinians deported to Lebanon in December.</p>\n<p><span id=\"shellnoun\">This issue</span> has frozen the peace talks. Washington has invited all the participants to a new round of talks on April 20, but the Palestinian delegation is demanding additional concessions on the deportee issue before attending.</p>\n<p>[\u2026]</p>\n</blockquote>\n<p>As soon as you feel confident you got what the author is talking about, we\u2019d like you to <strong>write down a description of what the target phrase refers to</strong>, either as</p>\n<ul>\n<li><span class=\"green\">\u2713 A full sentence</span>: \u201cAbout 400 Palestinians have been deported to Lebanon in December and Israel should speed their return\u201d</li>\n<li><span class=\"green\">\u2713 A key phrase</span>: \u201cthe issue that a large group of Palestinians has been sent to Lebanon\u201d, or</li>\n<li><span class=\"green\">\u2713 A segment copied from the text</span>: \u201cthe return of about 400 Palestinians deported to Lebanon in December\u201d</li>\n</ul>\n<p>There are no length restrictions, but please try to keep your answers as <strong>concise and informative</strong> as possible, so you should <strong>avoid</strong></p>\n<ul>\n<li><span class=\"red\">\u2717 \u201cI have no idea\u201d</span>: If you are really unsure, please try to come up with a few keywords like \u201cIsrael, Middle East peace talks, deportation\u201d and leave a note in the comment field that this was a tough one.</li>\n<li><span class=\"red\">\u2717 \u201cThe Israeli\u2013Palestinian conflict\u201d</span>: Too general for the given example, as the author is referring to a particular issue.</li>\n<li><span class=\"red\">\u2717 \u201che wants some people to be sent somewhere\u201d</span>: This is too vague.</li>\n</ul>\n<p>Finally, we\u2019d like you to rate <strong>how difficult</strong> it was to understand the target phrase: Was it clear right away? Or did you have to think about it a lot, re-read (parts of) the text, or remained unsure altogether?</p>\n<p>You\u2019re welcome to leave an optional comment if you found an example particularly difficult, interesting, ambiguous, or noteworthy in any other way. This is very useful information for us!</p>\n<h3>Important Notes</h3>\n<ul>\n<li>Do not refresh your browser or use the browser navigation buttons during the study as your progress will be lost.</li>\n<li>Before you start, please switch off phone/e-mail/music etc. so you can focus on the task.</li>\n<li>If you have questions or problems, don\u2019t hesitate to <a href=\"\">contact us</a>.</li>\n</ul>\n<p>Let\u2019s get started!</p>\n</div>"
+        },
+        {
+          "type": "text",
+          "title": "Please check your Prolific ID",
+          "description": "This is the ID we got from Prolific. Please make sure to double check it's correct, otherwise we will not be able to assign the study to your account.",
+          "name": "prolificId",
+          "isRequired": true,
+          "readOnly": true
+        }
+      ]
+    },
+    {
+      "name": "page1",
+      "elements": [
+        {
+          "type": "html",
+          "name": "article1",
+          "html": "<div id=\"article-body\">\n  <h1 id='article-title'>U.S. Sees Progress on Verification Issues</h1>\n  <h2 id='article-date'>May 12, 1988</h2>\n\n  \n  <p>(TEXT TRUNCATED)</p>\n  \n  <p>One issue was the limits to be placed on air-launched cruise missiles. A senior American official said there was ''no meeting of the minds'' on <span id='shellnoun'>this issue</span>. But another American official said the Soviet side hinted at possible flexibility.</p>(TEXT TRUNCATED)</p>\n  \n\n  <p>\u00a9 The New York Times Company</p>\n</div>",
+          "nyt_id": 144485
+        },
+        {
+          "type": "comment",
+          "name": "question1",
+          "title": "What does the highlighted instance of \"this issue\" refer to?",
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "rating1",
+          "title": "Please rate how difficult it was to understand the target word.",
+          "isRequired": true,
+          "minRateDescription": "Easy",
+          "maxRateDescription": "Hard"
+        },
+        {
+          "type": "comment",
+          "name": "comment1",
+          "title": "Any comments?"
+        }
+      ]
+    },
+    {
+      "name": "page2",
+      "elements": [
+        {
+          "type": "html",
+          "name": "article2",
+          "html": "<div id=\"article-body\">\n  <h1 id='article-title'>Soviet Marshal Sees 'Star Wars' Giving U.S. Edge</h1>\n  <h2 id='article-date'>October 30, 1987</h2>\n\n  \n  <p>(TEXT TRUNCATED)</p>\n  \n  <p>* The Soviet military believes the 1979 decision to intervene in Afghanistan ''was not a mistake.'' Marshal Akhromeyev's view on <span id='shellnoun'>this issue</span> appears to be in contrast to those of some Soviet political leaders, who have expressed regret about the intervention.</p>\n  \n  <p>(TEXT TRUNCATED)</p>\n  \n\n  <p>\u00a9 The New York Times Company</p>\n</div>",
+          "nyt_id": 87751
+        },
+        {
+          "type": "comment",
+          "name": "question2",
+          "title": "What does the highlighted instance of \"this issue\" refer to?",
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "rating2",
+          "title": "Please rate how difficult it was to understand the target word.",
+          "isRequired": true,
+          "minRateDescription": "Easy",
+          "maxRateDescription": "Hard"
+        },
+        {
+          "type": "comment",
+          "name": "comment2",
+          "title": "Any comments?"
+        }
+      ]
+    },
+    {
+      "name": "page3",
+      "elements": [
+        {
+          "type": "html",
+          "name": "article3",
+          "html": "<div id=\"article-body\">\n  <h1 id='article-title'>WHO'S NOT IN THE HALL OF FAME WHO SHOULD BE</h1>\n  <h2 id='article-date'>July 19, 1987</h2>\n\n  \n  <p>In this era of superstars (with super statistics and super salaries to match), we tend to lose sight of the fact that the Hall of Fame at Cooperstown was originally intended to honor not only players of exceptional ability, but those of exemplary virtue and integrity as well. It is with <span id='shellnoun'>this fact</span> in mind that I state my case for the inclusion of Gil Hodges in the Hall of Fame. (TEXT TRUNCATED)</p>\n  \n\n  <p>\u00a9 The New York Times Company</p>\n</div>",
+          "nyt_id": 58094
+        },
+        {
+          "type": "comment",
+          "name": "question3",
+          "title": "What does the highlighted instance of \"this fact\" refer to?",
+          "isRequired": true
+        },
+        {
+          "type": "rating",
+          "name": "rating3",
+          "title": "Please rate how difficult it was to understand the target word.",
+          "isRequired": true,
+          "minRateDescription": "Easy",
+          "maxRateDescription": "Hard"
+        },
+        {
+          "type": "comment",
+          "name": "comment3",
+          "title": "Any comments?"
+        }
+      ]
+    }
+  ],
+  "clearInvisibleValues": "none",
+  "firstPageIsStarted": true,
+  "batchNo": "demobatch"
+}
